@@ -4,7 +4,7 @@
 The package allows to study, analyze and plot the relationship between sections and voter turnout rate for the election held in Italy in 2018.
 
 ## Dataset
-The package uses a dataset from "OpenData Terlizzi" (https://goo.gl/o1zTKc) modified in order to highlight the most relevant data for the research.
+The package uses a dataset from "OpenData Terlizzi" (https://goo.gl/o1zTKc) adapted in order to highlight the most relevant data for the research.
 
 ## Installation
 
