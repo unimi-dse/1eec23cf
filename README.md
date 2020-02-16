@@ -15,7 +15,7 @@ devtools::install_github("unimi-dse/1eec23cf")
 ## Usage
 
 ```R
-require(politcalparticipation)  
+require("politcalparticipation")  
 ParticipationForSection()
 PlotFunction()
 ```
